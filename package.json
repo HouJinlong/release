@@ -8,7 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "nx": {},
   "devDependencies": {
-    "nx": "^17.1.3"
+    "nx": "^17.1.3",
+    "@nx/js": "^17.1.3"
   }
 }
